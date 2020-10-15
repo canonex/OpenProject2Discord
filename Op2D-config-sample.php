@@ -28,12 +28,12 @@ function namesConvert(){
 function urls($project){
 
 	$urls = [
-		'default' => 'https://discord.com/api/webhooks/             123456789123456789/qwertyuiopasdfghjklzxcvbnmqwertyuiasdfuiopsdfghjklxcbbnmsdfhjk346789',
+		'default' => 'https://discord.com/api/webhooks/123456789123456789/qwertyuiopasdfghjklzxcvbnmqwertyuiasdfuiopsdfghjklxcbbnmsdfhjk346789',
 		'OpenProject Project1' => 'https://discord.com/api/webhooks/123456789123456789/qwertyuiopasdfghjklzxcvbnmqwertyuiasdfuiopsdfghjklxcbbnmsdfhjk346789',
 		'OpenProject Project2' => 'https://discord.com/api/webhooks/123456789123456789/qwertyuiopasdfghjklzxcvbnmqwertyuiasdfuiopsdfghjklxcbbnmsdfhjk346789',
-		'New Website' => 'https://discord.com/api/webhooks/         123456789123456789/qwertyuiopasdfghjklzxcvbnmqwertyuiasdfuiopsdfghjklxcbbnmsdfhjk346789',
-		'World Conquest' => 'https://discord.com/api/webhooks/      123456789123456789/qwertyuiopasdfghjklzxcvbnmqwertyuiasdfuiopsdfghjklxcbbnmsdfhjk346789',
-		'Test OP' => 'https://discord.com/api/webhooks/      123456789123456789/qwertyuiopasdfghjklzxcvbnmqwertyuiasdfuiopsdfghjklxcbbnmsdfhjk346789' //Read below
+		'New Website' => 'https://discord.com/api/webhooks/123456789123456789/qwertyuiopasdfghjklzxcvbnmqwertyuiasdfuiopsdfghjklxcbbnmsdfhjk346789',
+		'World Conquest' => 'https://discord.com/api/webhooks/123456789123456789/qwertyuiopasdfghjklzxcvbnmqwertyuiasdfuiopsdfghjklxcbbnmsdfhjk346789',
+		'Test OP' => 'https://discord.com/api/webhooks/123456789123456789/qwertyuiopasdfghjklzxcvbnmqwertyuiasdfuiopsdfghjklxcbbnmsdfhjk346789' //Read below
 	];
 
 
