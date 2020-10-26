@@ -191,6 +191,9 @@ if ($data['work_package']['description']['raw'] != null) {
 
 $project = $data['work_package']['_links']['project']['title'];
 
+//Strip single quotation from project name
+$project = str_replace("'", "", $project );
+
 $url = urls($project);
 
 echo '<p>Indirizzo: '.$url.'</p>';
