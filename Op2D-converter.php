@@ -220,7 +220,7 @@ $data = array(
   	'title'     	=> $state.' | '.$embedTitle,
   	'description'  	=> $embedContent,
   	'color'    		=> $color,
-  	'url'			=> 'https://arcalab.eu/'.'work_packages/'.$data['work_package']['id']
+  	'url'			=> 'https://mydomain.com/'.'work_packages/'.$data['work_package']['id']
 	))
 );
 
